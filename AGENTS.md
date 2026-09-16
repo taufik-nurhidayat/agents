@@ -14,6 +14,3 @@
 ## Testing Scenario
 - ALWAYS update/create test after changes, ensure all pass.
 - NEVER test docs
-
-## Gitlab
-- Use glab cli for gitlab merge request or something
