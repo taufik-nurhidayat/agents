@@ -1,4 +1,5 @@
-Spacing must from parent element
+Section spacing must from parent element
+
 ```tsx
 // correct sample
 <main className="space-y-4">
