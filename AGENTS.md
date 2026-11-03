@@ -2,7 +2,7 @@
 - Some documents at @docs/[file].md
 
 ## Coding Style
-- feature-first architecture dengan batas Clean Architecture yang pragmatis.
+- feature-first architecture with clean architecture pragmatic.
 - Max 1000 lines, readable for human+llm.
 - Function name = what it do.
 - Reusable as much as possible.
